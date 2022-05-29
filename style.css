@@ -112,6 +112,19 @@
       overflow: hidden;
   }
 
+.quote {
+      margin-bottom: 65px;
+  }
+
+  .quote-content {
+      margin: 0 auto;
+      max-width: 720px;
+      padding: 5px;
+  }
+
+  .quote-text {
+      font-size: 25px;
+  }
   
 
   
